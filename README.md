@@ -6,10 +6,6 @@ My capstone project proposal is to replicate or write an even better Zestimate a
 I plan to do the automation using AWS and apache airflow. So far, I have been working on the database I found on a Kaggle competition to develop a ML algorithm to perform a Zestimate.
 <h2> How to Run </h2>
 <ol>
-<li>Clone this repository to your local computer.</li>
- 
- 
- <li><b>[This](https://github.com/codingforentrepreneurs/Jupyter-x-Docker-on-Heroku)</b>   
- 
- is the link which contains the steps to run a jupyter notebook using docker. The process can be used similarily for this project.</li>
+ <li> Clone this repository to your local computer.</li>
+ <li> [This](https://github.com/codingforentrepreneurs/Jupyter-x-Docker-on-Heroku) is the link which contains the steps to run a jupyter notebook using docker. The process can be used similarily for this project.</li>
 </ol>
