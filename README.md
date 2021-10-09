@@ -7,5 +7,6 @@ I plan to do the automation using AWS and apache airflow. So far, I have been wo
 <h2> How to Run </h2>
 <ol>
  <li> Clone this repository to your local computer.</li>
- <li>           [This](https://github.com/codingforentrepreneurs/Jupyter-x-Docker-on-Heroku)             is the link which contains the steps to run a jupyter notebook using docker. The process can be used similarily for this project.</li>
+ <li>           [This](https://github.com/codingforentrepreneurs/Jupyter-x-Docker-on-Heroku)             
+  is the link which contains the steps to run a jupyter notebook using docker. The process can be used similarily for this project.</li>
 </ol>
