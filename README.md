@@ -10,6 +10,9 @@ A home is often the largest and most expensive purchase a person makes in his or
 
 My capstone project proposal is to replicate or write an even better Zestimate algorithm to estimate the value of listed properties on Zillow website. To keep the algorithm relevant in the future, I will create a pipeline to automate the process of ETL from Zillow website and feeding the algorithm with new extracted data.
 I plan to do the automation using AWS and apache airflow. So far, I have been working on the database I found on a Kaggle competition to develop a ML algorithm to perform a Zestimate.
+
+![Certificate.PNG](https://github.com/Shayan-ShA/Zestimate_Project/blob/main/Image/airflow.png)
+
 <h2> How to Run </h2>
 <ol>
  <li> Clone this repository to your local computer.</li>
