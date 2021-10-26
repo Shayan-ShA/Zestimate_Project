@@ -5,6 +5,9 @@ A home is often the largest and most expensive purchase a person makes in his or
 ![Certificate.PNG](https://github.com/Shayan-ShA/Zestimate_Project/blob/main/Image/zillow-review-story-12.jpg)
 
 “Zestimates” are estimated home values based on 7.5 million statistical and machine learning models that analyze hundreds of data points on each property. And, by continually improving the median margin of error (from 14% at the onset to 5% today), Zillow has since become established as one of the largest, most trusted marketplaces for real estate information in the U.S. and a leading example of impactful machine learning.
+
+![Certificate.PNG](https://github.com/Shayan-ShA/Zestimate_Project/blob/main/Image/zestimate.jpg)
+
 My capstone project proposal is to replicate or write an even better Zestimate algorithm to estimate the value of listed properties on Zillow website. To keep the algorithm relevant in the future, I will create a pipeline to automate the process of ETL from Zillow website and feeding the algorithm with new extracted data.
 I plan to do the automation using AWS and apache airflow. So far, I have been working on the database I found on a Kaggle competition to develop a ML algorithm to perform a Zestimate.
 <h2> How to Run </h2>
